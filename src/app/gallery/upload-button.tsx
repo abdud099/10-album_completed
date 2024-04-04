@@ -15,7 +15,7 @@ export default function UploadButton() {
           console.log("refresh");
           setTimeout(() => {
             router.refresh();
-          }, 1000);
+          }, 2000);
         }}
         uploadPreset="ydiplez5"
       >
